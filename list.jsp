@@ -39,7 +39,7 @@
 		</ul>
 	</div>
 	
-	<table class="table" width="101%" layoutH="109">
+	<table class="table" width="100%" layoutH="109">
 		<thead>
 			<tr>
 				<th width="5%">序号</th>
@@ -55,7 +55,7 @@
 				<th width="5%">收款手机号</th>
 				<th width="5%">结算状态</th>
 				<th width="5%">创建时间</th>
-				<th width="5%">操作</th>
+				<th width="10%">操作</th>
 			</tr>
 		</thead>
 		<tbody>
